@@ -1,6 +1,6 @@
 # ⚔️ All Mecha Stars
 
-![Capa oficial de All Mecha Stars](assets/capa_all_mecha_stars.png)
+![Capa oficial de All Mecha Stars](/capa_all_mecha_stars.png)
 
 **All Mecha Stars** é um jogo de luta 1v1 feito com HTML, CSS e JavaScript, com quatro mechas 3D, golpes, esquivas, combos e batalhas contra a CPU.
 
